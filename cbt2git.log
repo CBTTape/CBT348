@@ -1,0 +1,10 @@
+2023-08-06 03:34:17.263340 - Initialized conversion of CBT348
+2023-08-06 03:34:17.319293 - Received CBT.V505.FILE348.PDS from FILE348.XMI 
+2023-08-06 03:34:17.321631 - Found $$$$DOC.txt (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/$$$$DOC
+2023-08-06 03:34:17.322633 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:34:17.323634 - Found @FILE348.txt (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/@FILE348
+2023-08-06 03:34:17.324821 - Found IU981201.txt (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/IU981201
+2023-08-06 03:34:17.325743 - Found LISTER.txt (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/LISTER
+2023-08-06 03:34:17.326654 - Found LISTER#.txt (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/LISTER#
+2023-08-06 03:34:17.327543 - Found PDSDIR.rexx (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/PDSDIR
+2023-08-06 03:34:17.328380 - Found PDSDIR#.txt (text/plain) in CBT.V505.FILE348.PDS, moved to PDS/PDSDIR#
